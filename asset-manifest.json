@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ecomapp/login/static/css/main.cc982334.css",
-    "main.js": "/ecomapp/login/static/js/main.cc6ca89d.js",
-    "static/js/787.7554f75e.chunk.js": "/ecomapp/login/static/js/787.7554f75e.chunk.js",
-    "index.html": "/ecomapp/login/index.html",
-    "main.cc982334.css.map": "/ecomapp/login/static/css/main.cc982334.css.map",
-    "main.cc6ca89d.js.map": "/ecomapp/login/static/js/main.cc6ca89d.js.map",
-    "787.7554f75e.chunk.js.map": "/ecomapp/login/static/js/787.7554f75e.chunk.js.map"
+    "main.css": "/ecomapp/static/css/main.cc982334.css",
+    "main.js": "/ecomapp/static/js/main.52a99810.js",
+    "static/js/787.7554f75e.chunk.js": "/ecomapp/static/js/787.7554f75e.chunk.js",
+    "index.html": "/ecomapp/index.html",
+    "main.cc982334.css.map": "/ecomapp/static/css/main.cc982334.css.map",
+    "main.52a99810.js.map": "/ecomapp/static/js/main.52a99810.js.map",
+    "787.7554f75e.chunk.js.map": "/ecomapp/static/js/787.7554f75e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc982334.css",
-    "static/js/main.cc6ca89d.js"
+    "static/js/main.52a99810.js"
   ]
 }
